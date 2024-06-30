@@ -10,5 +10,7 @@ A controller set consisting of a brake made from a push button switch and a stee
 
 **RC Car**
 <img src="https://i.ibb.co/PgfHzyr/380139942-1508369123253219-723932543833838948-n-1.jpg" alt="380139942-1508369123253219-723932543833838948-n-1" border="0">
+<img src="https://i.ibb.co/6FVKnH3/statemachine2-1.png" alt="statemachine2-1" border="0">
 <img src="https://i.ibb.co/3FX3BX2/380377539-1753469055118724-1125472183956700771-n.jpg" alt="380377539-1753469055118724-1125472183956700771-n" border="0">
 <img src="https://i.ibb.co/VL1Ns4f/380297859-2529879273847818-6540256927964286188-n.jpg" alt="380297859-2529879273847818-6540256927964286188-n" border="0">
+
