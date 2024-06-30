@@ -1,4 +1,5 @@
 # Controller Set With Survey RC Car
+A controller set consisting of a brake made from a push button switch and a steering wheel made from a potentiometer connected to an Arduino board interfaced with a PC and sent data to a NodeMCU to control an RC survey car. Additionally, the controller can function as a joystick for playing driving games. The RC survey car will have a camera mounted on it
 
 **Steering Wheel**
 <img src="https://i.ibb.co/dByvjNB/379940583-1072304097108224-3279823575504060923-n-1.jpg" alt="379940583-1072304097108224-3279823575504060923-n-1" border="0">
